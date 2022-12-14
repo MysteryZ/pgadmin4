@@ -5,7 +5,7 @@ PostgreSQL (http://www.postgresql.org) database.
 
 In the following documentation and examples, *$PGADMIN4_SRC/* is used to denote
 the top-level directory of a copy of the pgAdmin source tree, either from a
-tarball or a git checko
+tarball or a git checkout.
 
 ## Architecture
 
