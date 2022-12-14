@@ -16,7 +16,7 @@ utilised.
 Although developed using web technologies, pgAdmin 4 can be deployed either on
 a web server using a browser, or standalone on a workstation. The runtime/
 subdirectory contains an NWjs based runtime application intended to allow this,
-which will execute the Python server and display the UI.
+which will execute the Python server and display the .
 
 ## Building the Runtime
 
